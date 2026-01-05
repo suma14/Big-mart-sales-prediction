@@ -1,9 +1,9 @@
-🛒 Big Mart Sales Prediction
-📌 Project Overview
+### 🛒 Big Mart Sales Prediction
+### 📌 Project Overview
 
 The Big Mart Sales Prediction project aims to forecast sales for different Big Mart outlets using machine learning techniques. The dataset contains historical sales data along with product and store-level attributes. Accurate sales prediction helps retailers improve inventory planning, demand forecasting, and business decision-making.
 
-🎯 Objectives
+### 🎯 Objectives
 
 Understand factors affecting product sales across outlets
 
@@ -16,7 +16,7 @@ Build and compare multiple machine learning models
 Evaluate model performance and select the best model
 
 
-📊 Dataset Description
+### 📊 Dataset Description
 
 Records: 8,523
 
